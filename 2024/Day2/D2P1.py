@@ -1,4 +1,4 @@
-inputfile = "Day2\input.txt"
+inputfile = "2024/Day2/sample.txt"
 
 safe = 0
 

@@ -1,6 +1,6 @@
 import re
 
-inputfile = "Day3\input.txt"
+inputfile = "2024/Day3/sample.txt"
 
 expression = re.compile(r"mul\((\d{1,3},\d{1,3})\)")
 sum = 0

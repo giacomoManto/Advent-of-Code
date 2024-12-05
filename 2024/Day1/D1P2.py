@@ -1,4 +1,4 @@
-inputfile = "Day1\input.txt"
+inputfile = "2024/Day1/sample.txt"
 
 leftMap = {}
 rightMap = {}

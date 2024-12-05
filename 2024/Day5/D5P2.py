@@ -1,4 +1,4 @@
-inputfile = "Day5/input.txt"
+inputfile = "2024/Day5/sample.txt"
 
 
 class Rule:

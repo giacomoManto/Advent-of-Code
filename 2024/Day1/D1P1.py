@@ -1,6 +1,6 @@
 import bisect
 
-inputfile = "Day1\input.txt"
+inputfile = "2024/Day1/sample.txt"
 
 leftList = []
 rightList = []
@@ -18,7 +18,7 @@ with open(inputfile, "r") as input:
 
 total = 0
 
-for l, r in zip(leftList, rightList):
-    total += abs(l - r)
+for left, right in zip(leftList, rightList):
+    total += abs(left - right)
 
 print(total)

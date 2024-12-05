@@ -1,4 +1,4 @@
-inputfile = "Day4/input.txt"
+inputfile = "2024/Day4/sample.txt"
 
 crossword = []
 
